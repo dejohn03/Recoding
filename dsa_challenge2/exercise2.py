@@ -10,5 +10,5 @@ def move_zeros(numbers):
         result.append(0)
     return result            
 print((move_zeros([0, 1, 0, 3, 12])))       
-print(move_zeros([1, 2, 3]))
+print(move_zeros([[4, 0, 5, 0, 2] ]))
 print(move_zeros([1, 2, 3]))         
